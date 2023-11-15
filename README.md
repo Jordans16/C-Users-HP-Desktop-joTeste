@@ -213,5 +213,7 @@ confluent-hub install --no-prompt debezium/debezium-connector-mysql:latest
 Add this environment variable
 ```
 KAFKA_CONFLUENT_SUPPORT_METRICS_ENABLE=false
+
+XXXX
 ```
 
